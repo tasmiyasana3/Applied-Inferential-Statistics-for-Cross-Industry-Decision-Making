@@ -113,7 +113,7 @@ This project includes interaction effect analysis and ANOVA testing.
 ---
 
 ## Project Structure
-- `ISTAT_BUSINESS_REPORT_CODED_TS_final.pdf` — Final statistical analysis detailed business report
+- `ISTAT_BUSINESS_REPORT_CODED_TS_final.pdf` — Detailed statistical analysis detailed business report
 - `InferentialStats_Project_TS.ipynb` — Python implementation and statistical analysis
 - `Zingaro_Company.csv` and `Dental Hardness data.xlsx` — Dataset files
 - `README.md` — Project documentation
