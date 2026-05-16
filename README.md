@@ -127,5 +127,3 @@ Tasmiya Sana
 
 ## Conclusion
 This project shows how statistical analysis techniques can solve business problems in various industries. The findings support decision-making based on data, improve quality, optimize operations, and reduce risks.
-<img width="553" height="776" alt="image" src="https://github.com/user-attachments/assets/588e33ae-a3dd-4211-a3ce-6e081693c4c1" />
-<img width="553" height="776" alt="image" src="https://github.com/user-attachments/assets/3c8347e8-5bd4-4d32-9d81-532d3cd67e55" />
